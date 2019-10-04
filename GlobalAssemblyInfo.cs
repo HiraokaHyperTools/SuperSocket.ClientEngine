@@ -2,11 +2,11 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyVersion("0.10.0.0")]
-[assembly: AssemblyFileVersion("0.10.0.0")]
+[assembly: AssemblyVersion("0.10.1.0")]
+[assembly: AssemblyFileVersion("0.10.1.0")]
 [assembly: AssemblyCompany("SuperSocket")]
 [assembly: AssemblyProduct("SuperSocket ClientEngine")]
-[assembly: AssemblyInformationalVersion("0.10.0.0")]
-[assembly: AssemblyCopyright("Copyright © www.supersocket.net 2018")]
+[assembly: AssemblyInformationalVersion("0.10.1.0")]
+[assembly: AssemblyCopyright("Copyright © www.supersocket.net, HIRAOKA HYPERS TOOLS, Inc. 2018, 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
