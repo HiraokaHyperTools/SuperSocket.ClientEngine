@@ -39,7 +39,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
-    contents: '**\*.nupkg'
+    contents: '**\*.SuperSocket.ClientEngine.*.nupkg'
     targetFolder: '$(Build.ArtifactStagingDirectory)'
     flattenFolders: true
 

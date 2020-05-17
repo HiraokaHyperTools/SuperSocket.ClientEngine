@@ -1,8 +1,5 @@
 {
   "projects": [
     ".", "SuperSocket.ClientEngine", "Test"
-  ],
-  "sdk": {
-    "version": "2.1.602"
-  }
+  ]
 }

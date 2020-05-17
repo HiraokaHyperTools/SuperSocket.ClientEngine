@@ -6,7 +6,6 @@
     <OutputType>Library</OutputType>
     <PackageId>Test</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
-    <RuntimeFrameworkVersion>2.1.16</RuntimeFrameworkVersion>
   </PropertyGroup>
 
   <ItemGroup>
