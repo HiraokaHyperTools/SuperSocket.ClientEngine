@@ -1,13 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
     <AssemblyName>Test</AssemblyName>
     <OutputType>Library</OutputType>
     <PackageId>Test</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
-    <RuntimeFrameworkVersion>1.0.4</RuntimeFrameworkVersion>
-    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50;portable-net451+win8</PackageTargetFallback>
+    <RuntimeFrameworkVersion>2.1.16</RuntimeFrameworkVersion>
   </PropertyGroup>
 
   <ItemGroup>
