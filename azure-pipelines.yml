@@ -19,7 +19,7 @@ pool:
 
 variables:
   solution: '**/SuperSocket.ClientEngine.build'
-  buildPlatform: 'Any CPU'
+  buildPlatform: 'AnyCPU'
   buildConfiguration: 'Release'
 
 steps:
