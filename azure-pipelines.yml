@@ -4,21 +4,21 @@
 # https://docs.microsoft.com/azure/devops/pipelines/apps/windows/dot-net
 
 trigger:
-- master+fix-104
+- dev-ng
 
 schedules:
   - cron: "0 9 1 * *"
     displayName: Monthly build
     branches:
       include:
-        - master+fix-104
+        - dev-ng
     always: true
 
 pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: '**/SuperSocket.ClientEngine.build'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 

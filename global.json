@@ -3,6 +3,6 @@
     ".", "SuperSocket.ClientEngine", "Test"
   ],
   "sdk": {
-    "version": "1.0.1"
+    "version": "2.1.602"
   }
 }
