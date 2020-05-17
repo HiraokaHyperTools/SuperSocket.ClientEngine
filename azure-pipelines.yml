@@ -35,7 +35,7 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
-    projects: 'SuperSocket.ClientEngine\Test\Test.csproj'
+    projects: 'Test\Test.csproj'
 
 - task: CopyFiles@2
   inputs:
